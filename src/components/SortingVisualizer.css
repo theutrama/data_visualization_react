@@ -1,0 +1,12 @@
+.aoutterDiv {
+  position: absolute;
+  left: 100px;
+  /* top: 100px; */
+}
+
+.bin {
+  width: 2px;
+  display: inline-block;
+  margin: 0 1px;
+  background-color: gray;
+}
